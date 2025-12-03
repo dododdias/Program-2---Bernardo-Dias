@@ -1,0 +1,17 @@
+Best individual:
+Activity  Room        Time   Facilitator
+----------------------------------------
+SLA101A   Loft 310    10 AM  Glen
+SLA101B   Roman 201   3 PM   Glen
+SLA191A   Loft 310    11 AM  Banks
+SLA191B   Roman 201   1 PM   Glen
+SLA201    Roman 216   3 PM   Banks
+SLA291    Loft 206    10 AM  Banks
+SLA303    Slater 003  2 PM   Glen
+SLA304    Beach 301   3 PM   Uther
+SLA394    Beach 201   11 AM  Uther
+SLA449    Roman 201   2 PM   Uther
+SLA451    Frank 119   2 PM   Banks
+Best fitness: 11.65
+Generations: 100
+Final mutation rate: 0.01
